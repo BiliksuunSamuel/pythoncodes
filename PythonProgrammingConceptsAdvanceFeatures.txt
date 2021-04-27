@@ -1,0 +1,12 @@
+ERROR HANDLING AND MANAGEMENT
+there are basically 3 types of errors
+--compile time errors
+--logical errors
+--run time errors
+==compile time errors are errors due to typo in code, these errors are also known as compile time errors
+==with regard to the logical errors, the code gets compiled, but the output is not as expected. the output of the program give 
+a wrong value from the desired value.
+==runtime errors are the errors due to the improper data type provided by the user. example of runtime errors include, division by zero
+
+///MULTITHREADING
+running two or more task simultaneously
